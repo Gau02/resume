@@ -7,14 +7,25 @@
     Performed general tasks in Bitbucket/Git, Gradle, Jenkins, Sonatype Nexus, Ansible, Kafka and Linux(RHEL-7) servers (Hosted on Bank of America Cloud).
     
     Given Edge sessions on Jenkins, SSL/TLS protocol
+    
     Managed internal/external tasks with Agile and DevOps best practices.
+    
     Projects Delivered:
-     Nexus Migration - Migration of service account and artifact data using rsync and ansible playbooks.
-     PIP-7(Plasma Platform Improvement Proposal) - Migration of 13 global applications on new platform with new service accounts, secure access, deployment architecture and checker scripts using ansible and shell scripts.
-     provisioned 400 servers with global standards using Bank of America Cloud platform.
-     Automation of server checks using python scripts and on-run server setup using Jenkins Groovy DSL. 
-     Kafka Migration: Migration of Kafka clusters to new service accounts.
-     SSL/TLS Certificate Lifecycle Automation using Venafi.
-     Performed PoC on Artifactory implementation.
-     Application services monitoring setup using ITRS in production.
-     Systemd implementation of services to restart on server reboot.
+     
+      Nexus Migration - Migration of service account and artifact data using rsync and ansible playbooks.
+     
+      PIP-7(Plasma Platform Improvement Proposal) - Migration of 13 global applications on new platform with new service accounts, secure access, deployment architecture and checker scripts using ansible and shell scripts.
+     
+      provisioned 400 servers with global standards using Bank of America Cloud platform.
+     
+      Automation of server checks using python scripts and on-run server setup using Jenkins Groovy DSL. 
+     
+      Kafka Migration: Migration of Kafka clusters to new service accounts.
+     
+      SSL/TLS Certificate Lifecycle Automation using Venafi.
+     
+      Performed PoC on Artifactory implementation.
+     
+      Application services monitoring setup using ITRS in production.
+     
+      Systemd implementation of services to restart on server reboot.
