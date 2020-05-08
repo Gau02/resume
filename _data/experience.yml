@@ -1,10 +1,10 @@
 - layout: left
   company: MSys Technologies
-  link: www.bankofamerica.com
+  link: www.msystechnologies.com
   job_title: Senior DevOps Engineer
   dates: December 2019 - Present 
   description: | # this will include new lines to allow paragraphs
-    **Client : Seagate **
+    **Client : Seagate**
     
     Building shell scripts and salt state files for continuous configuration on remote server's.
     
