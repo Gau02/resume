@@ -26,9 +26,13 @@ about_profile_image: images/IMG_20200504_105859.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am very passionate about programming, operations skills and firm believer in continuous self improvement.   
 
-  I am most skilled in: <mark>DevOps</mark> and <mark>Eating Burger</mark>
-
-
+  I am skilled in: 
+  
+  Language and Technology - <mark>Core Java</mark> <mark>Linux</mark> <mark>R-Language</mark> <mark>Python</mark> <mark>Groovy</mark> <mark>YAML</mark> 
+  
+  Tools - <mark>Jenkins</mark> <mark>Ansible</mark> <mark>GitHub/Bitbucket</mark> <mark>Maven</mark> <mark>Gradle</mark> <mark>Nexus</mark> 
+  <mark>Artifactory</mark> <mark>Docker(Basic)</mark> <mark>Kubernetes(Basic)</mark> <mark>AWS(basic)</mark> <mark>Kafka</mark> <mark>Splunk</mark>
+  <mark>GitHub Actions</mark>
 # Experience Section
 # experience_title: Experience
 
