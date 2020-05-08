@@ -1,4 +1,20 @@
 - layout: left
+  company: MSys Technologies
+  link: www.bankofamerica.com
+  job_title: Senior DevOps Engineer
+  dates: December 2019 - Present 
+  description: | # this will include new lines to allow paragraphs
+    **Client : Seagate **
+    
+    Migration from Jenkins to GitHub Actions.
+    
+    Utilise GitHub Releases and GitHub Packages for project
+    
+    Create docker containers as a build environment for application RPM generation.
+    
+    Working on setting up yum repository, JFrog Artifactory, GitLab/GitHub API's.
+    
+- layout: left
   company: Bank of America
   link: www.bankofamerica.com
   job_title: Senior Technical Associate
