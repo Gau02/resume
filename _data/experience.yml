@@ -6,6 +6,8 @@
   description: | # this will include new lines to allow paragraphs
     **Client : Seagate **
     
+    Building shell scripts and salt state files for continuous configuration on remote server's.
+    
     Migration from Jenkins to GitHub Actions.
     
     Utilise GitHub Releases and GitHub Packages for project
