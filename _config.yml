@@ -36,14 +36,11 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+# more_title: Qualifications & Recognitions
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+ Bank Of America Global Recognition : High Five Award, Bronze Award , Silver Award , Gold Award.
+ 
+ Intellect Innovation Challenge Award for Data Science
 # Footer
 footer_show_references: true
 
