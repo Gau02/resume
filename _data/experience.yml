@@ -20,21 +20,14 @@
   job_title: Senior DevOps Engineer
   dates: December 2019 - June 2021
   description: | # this will include new lines to allow paragraphs
-    **Client : Seagate**
-    
-    Created shell scripts and salt state files for continuous configuration on remote server's.
-    
-    Migration from Jenkins to GitHub Actions.
-    
-    Utilise GitHub Releases and GitHub Packages for project
-    
-    Created docker containers as a build environment for application RPM generation.
-    
-    Worked on setting up yum repository, JFrog Artifactory, GitLab/GitHub API's.
-    
-    Performed a POC to add MongoDB as a state store for terraform tfstate files.
-    
-    Created/Managed AWS services using terraform and BOTO3.
+    **Client : Seagate**<br>
+    * Created shell scripts and salt state files for continuous configuration on remote server's.<br>
+    * Migration from Jenkins to GitHub Actions.<br>
+    * Utilise GitHub Releases and GitHub Packages for project.<br>
+    * Created docker containers as a build environment for application RPM generation.<br>
+    * Worked on setting up yum repository, JFrog Artifactory, GitLab/GitHub API's.<br>
+    * Performed a POC to add MongoDB as a state store for terraform tfstate files.<br>
+    * Created/Managed AWS services using terraform and BOTO3.<br>
     
 - layout: left
   company: Bank of America
@@ -42,31 +35,19 @@
   job_title: Senior Technical Associate
   dates: July 2017 - September 2019 
   description: | # this will include new lines to allow paragraphs
-    Performed general tasks in Bitbucket/Git, Gradle, Jenkins, Sonatype Nexus, Ansible, Kafka and Linux(RHEL-7) servers (Hosted on Bank of America Cloud).
-    
-    Given Edge sessions on Jenkins, SSL/TLS protocol
-    
-    Managed internal/external tasks with Agile and DevOps best practices.
-    
-    **Projects Delivered :**
-     
-      Nexus Migration - Migration of service account and artifact data using rsync and ansible playbooks.
-     
-      PIP-7(Plasma Platform Improvement Proposal) - Migration of 13 global applications on new platform with new service accounts, secure access, deployment architecture and checker scripts using ansible and shell scripts.
-     
-      provisioned 400 servers with global standards using Bank of America Cloud platform.
-     
-      Automation of server checks using python scripts and on-run server setup using Jenkins Groovy DSL. 
-     
-      Kafka Migration: Migration of Kafka clusters to new service accounts.
-     
-      SSL/TLS Certificate Lifecycle Automation using Venafi.
-     
-      Performed PoC on Artifactory implementation.
-     
-      Application services monitoring setup using ITRS in production.
-     
-      Systemd implementation of services to restart on server reboot.
+    * Performed general tasks in Bitbucket/Git, Gradle, Jenkins, Sonatype Nexus, Ansible, Kafka and Linux(RHEL-7) servers (Hosted on Bank of America Cloud).<br>
+    * Given Edge sessions on Jenkins, SSL/TLS protocol.<br>
+    * Managed internal/external tasks with Agile and DevOps best practices.<br>
+    **Projects Delivered :**<br>
+      * Nexus Migration - Migration of service account and artifact data using rsync and ansible playbooks.<br>
+      * PIP-7(Plasma Platform Improvement Proposal) - Migration of 13 global applications on new platform with new service accounts, secure access, deployment architecture and checker scripts using ansible and shell scripts.<br>
+      * provisioned 400 servers with global standards using Bank of America Cloud platform.<br>
+      * Automation of server checks using python scripts and on-run server setup using Jenkins Groovy DSL.<br>
+      * Kafka Migration: Migration of Kafka clusters to new service accounts.<br>
+      * SSL/TLS Certificate Lifecycle Automation using Venafi.<br>
+      * Performed PoC on Artifactory implementation.<br>
+      * Application services monitoring setup using ITRS in production.<br>
+      * Systemd implementation of services to restart on server reboot.<br>
       
 - layout: left
   company: Intellect Design Arena
@@ -74,9 +55,7 @@
   job_title: Project Engineer 
   dates: Oct 2016 — July 2017  
   description: | # this will include new lines to allow paragraphs 
-    **Client : St. James Place Wealth Management, London**
-    
-    Delivered Innovative idea based on data science for customer retention (Predictive Analysis) 
-    
-    Hands-on experience on Core Java , R-Language and Maven used to build predictive analysis product with mock data.
+    **Client : St. James Place Wealth Management, London**<br>
+    * Delivered Innovative idea based on data science for customer retention (Predictive Analysis).<br>
+    * Hands-on experience on Core Java , R-Language and Maven used to build predictive analysis product with mock data.<br>
 
