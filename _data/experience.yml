@@ -4,26 +4,17 @@
   job_title: Senior DevOps Engineer
   dates: June 2021 - Present
   description: | # this will include new lines to allow paragraphs
-    
     Work Reference - [https://github.com/Seagate/cortx-re](https://github.com/Seagate/cortx-re)
-    
     Built shell/python scripts to automate tasks (e.g. release notes generation, changelog generation).
-    
     Created jenkins pipelines for product build/deployment automation.
-    
     Embedded container based agents in jenkins using docker/docker-swarm cluster.
-    
     Setup private registry (Harbor registry) to store application container images.
-    
     Built VMware VM's using terraform script.
-    
     Automated kubernetes cluster setup on user given number of nodes using shell script/jenkins.
-    
     Helped org teams migrate to GitHub from legacy VCS.
-    
     Performed a role of Gatekeeper/Admin for application/DevOps repositories.
 
-- layout: right
+- layout: left
   company: MSys Technologies
   link: www.msystechnologies.com
   job_title: Senior DevOps Engineer
@@ -77,7 +68,7 @@
      
       Systemd implementation of services to restart on server reboot.
       
-- layout: right
+- layout: left
   company: Intellect Design Arena
   link: www.intellectdesign.com
   job_title: Project Engineer 
