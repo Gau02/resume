@@ -1,20 +1,49 @@
 - layout: left
+  company: Seagate Technology
+  link: www.seagate.com
+  job_title: Senior DevOps Engineer
+  dates: June 2021 - Present
+  description: | # this will include new lines to allow paragraphs
+    
+    Work Reference - https://github.com/Seagate/cortx-re
+    
+    Built shell/python scripts to automate tasks (e.g. release notes generation, changelog generation).
+    
+    Created jenkins pipelines for product build/deployment automation.
+    
+    Embedded container based agents in jenkins using docker/docker-swarm cluster.
+    
+    Setup private registry (Harbor registry) to store application container images.
+    
+    Built VMware VM's using terraform script.
+    
+    Automated kubernetes cluster setup on user given number of nodes using shell script/jenkins.
+    
+    Helped org teams migrate to GitHub from legacy VCS.
+    
+    Performed a role of Gatekeeper/Admin for application/DevOps repositories.
+
+- layout: left
   company: MSys Technologies
   link: www.msystechnologies.com
   job_title: Senior DevOps Engineer
-  dates: December 2019 - Present 
+  dates: December 2019 - June 2021
   description: | # this will include new lines to allow paragraphs
     **Client : Seagate**
     
-    Building shell scripts and salt state files for continuous configuration on remote server's.
+    Created shell scripts and salt state files for continuous configuration on remote server's.
     
     Migration from Jenkins to GitHub Actions.
     
     Utilise GitHub Releases and GitHub Packages for project
     
-    Create docker containers as a build environment for application RPM generation.
+    Created docker containers as a build environment for application RPM generation.
     
-    Working on setting up yum repository, JFrog Artifactory, GitLab/GitHub API's.
+    Worked on setting up yum repository, JFrog Artifactory, GitLab/GitHub API's.
+    
+    Performed a POC to add MongoDB as a state store for terraform tfstate files.
+    
+    Created/Managed AWS services using terraform and BOTO3.
     
 - layout: left
   company: Bank of America
