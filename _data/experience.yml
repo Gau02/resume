@@ -1,11 +1,11 @@
-- layout: left
+- layout: right
   company: Seagate Technology
   link: www.seagate.com
   job_title: Senior DevOps Engineer
   dates: June 2021 - Present
   description: | # this will include new lines to allow paragraphs
     
-    Work Reference - https://github.com/Seagate/cortx-re
+    Work Reference - [https://github.com/Seagate/cortx-re](https://github.com/Seagate/cortx-re)
     
     Built shell/python scripts to automate tasks (e.g. release notes generation, changelog generation).
     
