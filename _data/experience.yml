@@ -1,4 +1,4 @@
-- layout: right
+- layout: left
   company: Seagate Technology
   link: www.seagate.com
   job_title: Senior DevOps Engineer
@@ -23,7 +23,7 @@
     
     Performed a role of Gatekeeper/Admin for application/DevOps repositories.
 
-- layout: left
+- layout: right
   company: MSys Technologies
   link: www.msystechnologies.com
   job_title: Senior DevOps Engineer
@@ -77,7 +77,7 @@
      
       Systemd implementation of services to restart on server reboot.
       
-- layout: left
+- layout: right
   company: Intellect Design Arena
   link: www.intellectdesign.com
   job_title: Project Engineer 
