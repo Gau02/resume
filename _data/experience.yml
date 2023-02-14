@@ -4,7 +4,6 @@
   job_title: Senior DevOps Engineer
   dates: June 2021 - Present
   description: | # this will include new lines to allow paragraphs
-    * Work Reference - [https://github.com/Seagate/cortx-re](https://github.com/Seagate/cortx-re)<br>
     * Built shell/python scripts to automate tasks (e.g. release notes generation, changelog generation).<br>
     * Created jenkins pipelines for product build/deployment automation.<br>
     * Embedded container based agents in jenkins using docker/docker-swarm cluster.<br>
@@ -13,6 +12,7 @@
     * Automated kubernetes cluster setup on user given number of nodes using shell script/jenkins.<br>
     * Helped org teams migrate to GitHub from legacy VCS.<br>
     * Performed a role of Gatekeeper/Admin for application/DevOps repositories.<br>
+    * Work Reference: [https://github.com/Seagate/cortx-re](https://github.com/Seagate/cortx-re)<br>
 
 - layout: left
   company: MSys Technologies
@@ -38,16 +38,15 @@
     * Performed general tasks in Bitbucket/Git, Gradle, Jenkins, Sonatype Nexus, Ansible, Kafka and Linux(RHEL-7) servers (Hosted on Bank of America Cloud).<br>
     * Given Edge sessions on Jenkins, SSL/TLS protocol.<br>
     * Managed internal/external tasks with Agile and DevOps best practices.<br>
-    **Projects Delivered :**<br>
-      * Nexus Migration - Migration of service account and artifact data using rsync and ansible playbooks.<br>
-      * PIP-7(Plasma Platform Improvement Proposal) - Migration of 13 global applications on new platform with new service accounts, secure access, deployment architecture and checker scripts using ansible and shell scripts.<br>
-      * provisioned 400 servers with global standards using Bank of America Cloud platform.<br>
-      * Automation of server checks using python scripts and on-run server setup using Jenkins Groovy DSL.<br>
-      * Kafka Migration: Migration of Kafka clusters to new service accounts.<br>
-      * SSL/TLS Certificate Lifecycle Automation using Venafi.<br>
-      * Performed PoC on Artifactory implementation.<br>
-      * Application services monitoring setup using ITRS in production.<br>
-      * Systemd implementation of services to restart on server reboot.<br>
+    * Nexus Migration - Migration of service account and artifact data using rsync and ansible playbooks.<br>
+    * PIP-7(Plasma Platform Improvement Proposal) - Migration of 13 global applications on new platform with new service accounts, secure access, deployment architecture and checker scripts using ansible and shell scripts.<br>
+    * provisioned 400 servers with global standards using Bank of America Cloud platform.<br>
+    * Automation of server checks using python scripts and on-run server setup using Jenkins Groovy DSL.<br>
+    * Kafka Migration: Migration of Kafka clusters to new service accounts.<br>
+    * SSL/TLS Certificate Lifecycle Automation using Venafi.<br>
+    * Performed PoC on Artifactory implementation.<br>
+    * Application services monitoring setup using ITRS in production.<br>
+    * Systemd implementation of services to restart on server reboot.<br>
       
 - layout: left
   company: Intellect Design Arena
